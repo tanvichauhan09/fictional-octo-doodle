@@ -11,7 +11,4 @@ This is implemented by connecting Python to MySQL Database.
 **Database:** MySQL
 
 
-## Authors
-
-- [@Aarsh Saxena](https://www.linkedin.com/in/aarshsaxena/)
 
